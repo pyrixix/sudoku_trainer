@@ -20,13 +20,13 @@ Sudoku Trainer is a Python-based, fully offline Sudoku practice application desi
 
 ## 🛠️ Tech Stack
 
-Python 3.13
+~ Python 3.13
 
-Tkinter for GUI
+~ Tkinter for GUI
 
-json for puzzle storage
+~ json for puzzle storage
 
-PyInstaller for .exe packaging
+~ PyInstaller for .exe packaging
 
 
 ## 🧪 Build the .exe
@@ -58,9 +58,9 @@ Your .exe will be inside the dist/ folder.
 
 ## 🙌 Acknowledgments
 
-Special thanks to the senior from IIT Delhi for feedback and suggestions.
+• Special thanks to the senior from IIT Delhi for feedback and suggestions.
 
-Built for my younger brother — to learn, solve, and become a logic master.
+• Built for my younger brother — to learn, solve, and become a logic master.
 
 ## 🧠 Vision
 
